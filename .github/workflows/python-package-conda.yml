@@ -24,4 +24,4 @@ jobs:
     - name: install dependence
       run: sh install.sh
     - name: test program
-      run: python objLupAnsys_test.py
+      run: python ./ObjLupAnsys_test.py
